@@ -1,6 +1,6 @@
 {
   "name": "newrelic",
-  "version": "1.26.0",
+  "version": "1.27.2",
   "author": "New Relic Node.js agent team <nodejs@newrelic.com>",
   "licenses": [
     {
@@ -103,7 +103,7 @@
   "devDependencies": {
     "mocha": "*",
     "tap": "0.7.1",
-    "eslint": "^0.24.1"
+    "eslint": "^2.9.0"
   },
   "repository": {
     "type": "git",
