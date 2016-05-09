@@ -11,6 +11,13 @@ need a [New Relic Pro](http://newrelic.com/application-monitoring/features) subs
 
 As with any instrumentation tool, please test before using in production.
 
+The only change I have done here is support a common middleware for express to 
+response.ie, In the original library it is assumed that there would be a callback 
+stack for all the routes defined on the server, hoever the other school of thought 
+where we want to generalize the concept of generic output is not handled with this 
+approach. To support this I have made changes to set the path correctly
+
+
 ## Table of contents
 
 * [Getting started](#getting-started)

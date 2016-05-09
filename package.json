@@ -1,7 +1,7 @@
 {
-  "name": "newrelic",
+  "name": "express-newrelic",
   "version": "1.27.2",
-  "author": "New Relic Node.js agent team <nodejs@newrelic.com>",
+  "author": "New Relic Node.js agent team <nodejs@newrelic.com>, Sandeep Pandey(s4n989@gmail.com)",
   "licenses": [
     {
       "type": "proprietary",
@@ -107,6 +107,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/newrelic/node-newrelic.git"
+    "url": "https://github.com/sandeep89/node-newrelic.git"
   }
 }
