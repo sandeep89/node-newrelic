@@ -1,7 +1,7 @@
 {
   "name": "express-newrelic",
   "original_name": "newrelic",
-  "version": "1.27.3",
+  "version": "1.27.4",
   "original_version": "1.28.0",
   "author": "New Relic Node.js agent team <nodejs@newrelic.com>, Sandeep Pandey(s4n989@gmail.com)",
   "licenses": [
